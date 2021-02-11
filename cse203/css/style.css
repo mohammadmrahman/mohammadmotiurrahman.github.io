@@ -1,5 +1,6 @@
 body {
-    font-family: "Georgia", "Open Sans", sans-serif;
+    /*font-family: "Georgia", "Open Sans", sans-serif;*/
+    font-family:'Georgia','Open Sans','Helvetica', 'Arial', 'Sans-Serif';
     margin: 0;
     padding: 0;
 }
