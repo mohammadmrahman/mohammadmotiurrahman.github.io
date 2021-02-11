@@ -30,6 +30,11 @@ h2 {
     font-weight: normal;
 }
 
+h3 {
+    font-size: 32px;
+    font-weight: normal;
+}
+
 figure {
     text-align: center;
 }
