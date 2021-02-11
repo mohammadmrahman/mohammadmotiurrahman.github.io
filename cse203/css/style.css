@@ -96,10 +96,11 @@ samp {
     text-decoration: none;
 }
 
-/*Comment*/
+/*
 .nav-main-link:hover {
     background-color: #ddd;
 }
+*/
 
 #calendar {
     border: 1px solid #bbb;
