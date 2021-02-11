@@ -29,6 +29,9 @@ h2 {
     font-size: 32px;
     font-weight: normal;
 }
+h3 {
+    color: #999;
+}
 
 figure {
     text-align: center;
