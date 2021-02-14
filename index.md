@@ -4,6 +4,5 @@
 
 * * *
 
-[email](mailto:mohammadmotiurrahman@gmail.com)
-
-[github.com/mohammadmotiurrahman](https://github.com/mohammadmotiurrahman)
+### [email](mailto:mohammadmotiurrahman@gmail.com)
+### [github.com/mohammadmotiurrahman](https://github.com/mohammadmotiurrahman)
