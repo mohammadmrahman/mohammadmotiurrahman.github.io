@@ -47,7 +47,7 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/UMPlbY4x0J4)                                                                   |
 | 1       | Introduction | [Mathematics 100](https://jamboard.google.com/d/1LB88FA3iYe4RWSDlXHBhks6D5nR61IeXjNhPqC8yPTc/edit?usp=sharing) | 
 |         |              | [Youtube Link](https://youtu.be/wyRbcmeXUdc)                                                                   |
-* * *
+
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
