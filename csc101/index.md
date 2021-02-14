@@ -38,6 +38,7 @@ Couple of other important rules and regulation:
 
 <b>c.</b>There has been reports that students showed reluctance in wearing decent clothes while taking online classes. So be aware of that. What are decent clothes you may ask. These are attires which you would normally wear in a physical classroom of IUB. It does not has to fancy, it just has to be decent.
 * * *   
+
 ## Class Schedule
 
 | Lecture | Topics       | Notes                                                                                                          | 
@@ -47,6 +48,7 @@ Couple of other important rules and regulation:
 | 1       | Introduction |  [Mathematics 100](https://jamboard.google.com/d/1LB88FA3iYe4RWSDlXHBhks6D5nR61IeXjNhPqC8yPTc/edit?usp=sharing)| 
 |         |              | [Youtube Link](https://youtu.be/wyRbcmeXUdc)  |
 * * *
+
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
 2. [Course reader of CS 106B from Stanford Univesity](https://bitly.com/cs106Bcoursereader)
@@ -54,6 +56,7 @@ Couple of other important rules and regulation:
 4. [CS 50 Study Guide for improving yours basics](https://study.cs50.net/linked_lists)
 5. [Essential C by Nick Parlante](http://cslibrary.stanford.edu/101/EssentialC.pdf)
 * * *
+
 ## Other essential references
 1. [Book Reference for C++](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 2. [Online C++ reference](https://en.cppreference.com)
@@ -61,4 +64,5 @@ Couple of other important rules and regulation:
 4. [CS50 in fall of 2017](http://cs50.tv/2017/fall/)
 5. [Book Reference for C](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
 * * *
+
 Be curious
