@@ -48,4 +48,17 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/wyRbcmeXUdc)  |
 * * *
 ## Reference Books
-
+1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
+2. [Course reader of CS 106B from Stanford Univesity](https://bitly.com/cs106Bcoursereader)
+3. [A Computer Science Tapestry, second edition](https://www2.cs.duke.edu/csed/tapestry/)
+4. [CS 50 Study Guide for improving yours basics](https://study.cs50.net/linked_lists)
+5. [Essential C by Nick Parlante](http://cslibrary.stanford.edu/101/EssentialC.pdf)
+* * *
+## Other essential references
+1. [Book Reference for C++](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+2. [Online C++ reference](https://en.cppreference.com)
+3. [Online C++ reference](http://www.cplusplus.com/)
+4. [CS50 in fall of 2017](http://cs50.tv/2017/fall/)
+5. [Book Reference for C](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
+* * *
+Be curious
