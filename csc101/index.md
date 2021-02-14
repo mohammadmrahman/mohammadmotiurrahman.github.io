@@ -47,7 +47,6 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/UMPlbY4x0J4)                                                                   |
 | 1       | Introduction | [Mathematics 100](https://jamboard.google.com/d/1LB88FA3iYe4RWSDlXHBhks6D5nR61IeXjNhPqC8yPTc/edit?usp=sharing) | 
 |         |              | [Youtube Link](https://youtu.be/wyRbcmeXUdc)                                                                   |
-
 * * *
 
 ## Reference Books
@@ -56,6 +55,7 @@ Couple of other important rules and regulation:
 3. [A Computer Science Tapestry, second edition](https://www2.cs.duke.edu/csed/tapestry/)
 4. [CS 50 Study Guide for improving yours basics](https://study.cs50.net/linked_lists)
 5. [Essential C by Nick Parlante](http://cslibrary.stanford.edu/101/EssentialC.pdf)
+
 * * *
 
 ## Other essential references
@@ -64,6 +64,7 @@ Couple of other important rules and regulation:
 3. [Online C++ reference](http://www.cplusplus.com/)
 4. [CS50 in fall of 2017](http://cs50.tv/2017/fall/)
 5. [Book Reference for C](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
+
 * * *
 
 Be curious
