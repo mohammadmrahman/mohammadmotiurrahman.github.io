@@ -1,18 +1,19 @@
 # CSC 101 | Introduction to Programming
+
 ## Instructor
 ### Mohammad Motiur Rahman
 Email: motiur@iub.edu.bd
-
+* * *
 ## Unofficial Teaching Assistants
 Partho Prothim Saha 1730016@iub.edu.bd
 
 Zulker Nayeen Nahiyan - 1910063@iub.edu.bd
 
 Sharmin Islam Shroddha - 1822217@iub.edu.bd
-
+* * *
 ## Class Timing
 ST: 0800-0930 S: 0930-1100
-
+* * *
 ## Grading Scheme (Tentative)
 Assignments - 10 marks
 
@@ -21,7 +22,7 @@ Quiz - 20 marks
 Midterm Exam - 30 marks
 
 Final Exam - 40 marks
-
+* * *
 ## Code of conduct
 Plagiarism will absolutely not be tolerated.
 
@@ -36,5 +37,5 @@ Couple of other important rules and regulation:
 <b>b.</b>You are also expected to show decent behavior while the class is being conducted. You shall not be permitted such behaviors in the classrooms which are not permitted in Bangladeshi society. Remember even though you are online your behavior might affect other students as well as the instructor who is taking the class. The classes will be recorded, so please maintain decency.
 
 <b>c.</b>There has been reports that students showed reluctance in wearing decent clothes while taking online classes. So be aware of that. What are decent clothes you may ask. These are attires which you would normally wear in a physical classroom of IUB. It does not has to fancy, it just has to be decent.
-        
+* * *   
 
