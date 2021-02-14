@@ -40,11 +40,11 @@ Couple of other important rules and regulation:
 * * *   
 ## Class Schedule
 
-| Lecture | Topics       | Notes | 
-|:--------|:-------------|:------|
+| Lecture | Topics       | Notes                                                                                                          | 
+|:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
 | 0       | Introduction | [Mathematics 100](https://jamboard.google.com/d/1LB88FA3iYe4RWSDlXHBhks6D5nR61IeXjNhPqC8yPTc/edit?usp=sharing) |
-|         |              | [Youtube Link](https://youtu.be/UMPlbY4x0J4)  |
-| 1       | Introduction |  [Mathematics 100](https://jamboard.google.com/d/1LB88FA3iYe4RWSDlXHBhks6D5nR61IeXjNhPqC8yPTc/edit?usp=sharing)   | 
+|         |              | [Youtube Link](https://youtu.be/UMPlbY4x0J4)                                                                   |
+| 1       | Introduction |  [Mathematics 100](https://jamboard.google.com/d/1LB88FA3iYe4RWSDlXHBhks6D5nR61IeXjNhPqC8yPTc/edit?usp=sharing)| 
 |         |              | [Youtube Link](https://youtu.be/wyRbcmeXUdc)  |
 * * *
 ## Reference Books
