@@ -38,4 +38,11 @@ Couple of other important rules and regulation:
 
 <b>c.</b>There has been reports that students showed reluctance in wearing decent clothes while taking online classes. So be aware of that. What are decent clothes you may ask. These are attires which you would normally wear in a physical classroom of IUB. It does not has to fancy, it just has to be decent.
 * * *   
+## Class Schedule
 
+| Lecture | Topics       | Notes | Assignment | Exam  |
+|:--------|:-------------|:------|:-----------|:------|
+| 0       | Introduction | Hello | Hello      | Hello |
+|         | good and plen| nice  |            |       |
+| 1       | good `oreos` | hmm   |            |       |
+|         | good `zoute` | yumm  |            |       |
