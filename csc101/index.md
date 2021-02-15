@@ -47,8 +47,11 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/UMPlbY4x0J4)                                                                   |
 | 1       | Introduction | [Mathematics 100](https://jamboard.google.com/d/1LB88FA3iYe4RWSDlXHBhks6D5nR61IeXjNhPqC8yPTc/edit?usp=sharing) | 
 |         |              | [Youtube Link](https://youtu.be/wyRbcmeXUdc)                                                                   |
-
-
+| 2       | Installation | [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)                                    |
+|         |              | [Sublime Text](https://www.sublimetext.com/)                                                                   |
+|         |              | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view?usp=sharing)                    |
+|         |              | [Lecture 2](https://www.icloud.com/keynote/0C1DV7B9lBgKwSg5HkycZui8Q#Lecture_2)                                |
+|         |              | [Youtube Link](https://youtu.be/JXL1PM9Flag)                                                                   |
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
 2. [Course reader of CS 106B from Stanford Univesity](https://bitly.com/cs106Bcoursereader)
