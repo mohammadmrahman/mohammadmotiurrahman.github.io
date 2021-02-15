@@ -52,6 +52,8 @@ Couple of other important rules and regulation:
 |         |              | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view?usp=sharing)                    |
 |         |              | [Lecture 2](https://www.icloud.com/keynote/0C1DV7B9lBgKwSg5HkycZui8Q#Lecture_2)                                |
 |         |              | [Youtube Link](https://youtu.be/JXL1PM9Flag)                                                                   |
+
+
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
 2. [Course reader of CS 106B from Stanford Univesity](https://bitly.com/cs106Bcoursereader)
