@@ -5,11 +5,11 @@
 Email: motiur@iub.edu.bd
 * * *
 ## Unofficial Teaching Assistants
-Partho Prothim Saha - 1730016@iub.edu.bd
+[Partho Prothim Saha](mailto:1730016@iub.edu.bd)
 
-Zulker Nayeen Nahiyan - 1910063@iub.edu.bd
+[Zulker Nayeen Nahiyan](mailto:1910063@iub.edu.bd)
 
-Sharmin Islam Shroddha - 1822217@iub.edu.bd
+[Sharmin Islam Shroddha](mailto:1822217@iub.edu.bd)
 * * *
 ## Class Timing
 ST: 1230-1400 T: 1100-1230
