@@ -14,8 +14,7 @@ Also please subscribe to the forum at [groups.io](https://groups.io/g/pythonwork
 
 [Google Colab Chapter 1](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter1.ipynb)
 
-[Google Colab Chapter 2]
-(https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter2.ipynb)
+[Google Colab Chapter 2](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter2.ipynb)
 
 [Youtube Stream](https://youtu.be/Vt0ZE7RNaHE)
 
@@ -24,8 +23,7 @@ Also please subscribe to the forum at [groups.io](https://groups.io/g/pythonwork
 
 [Google Colab Chapter 1](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter1.ipynb)
 
-[Google Colab Chapter 2]
-(https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter2.ipynb)
+[Google Colab Chapter 2](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter2.ipynb)
 
 [Youtube Stream](https://youtu.be/zOWKaFoY3Wo)
 
@@ -34,8 +32,7 @@ Also please subscribe to the forum at [groups.io](https://groups.io/g/pythonwork
 
 [Google Colab Chapter 1](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter1.ipynb)
 
-[Google Colab Chapter 2]
-(https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter2.ipynb)
+[Google Colab Chapter 2](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter2.ipynb)
 
 [Youtube Stream](https://youtu.be/RqlCfFpQLRo)
 
@@ -44,8 +41,7 @@ Also please subscribe to the forum at [groups.io](https://groups.io/g/pythonwork
 
 [Google Colab Chapter 1](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter1.ipynb)
 
-[Google Colab Chapter 2]
-(https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter2.ipynb)
+[Google Colab Chapter 2](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter2.ipynb)
 
 [Youtube Stream](https://youtu.be/7M-1FWkqmHM)
 
