@@ -51,7 +51,7 @@ Couple of other important rules and regulation:
 |         |              | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view?usp=sharing)                    |
 |         |              | [Lecture 1a](https://www.icloud.com/keynote/04EftXdw8IfDD1wkOWPXCXS9Q#Lecture_1a)                              |
 |         |              | [Lecture 1b](https://www.icloud.com/keynote/0uMNC1trxOw4C30NIMEhbnp-g#Lecture_1b)                              |
-|         |              |[GoogleColab(https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
+|         |              |[GoogleColab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/4_vqH2KjcSc)                                                                   |
 
 ## Reference Books
