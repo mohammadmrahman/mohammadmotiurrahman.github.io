@@ -53,6 +53,10 @@ Couple of other important rules and regulation:
 |         |              | [Lecture 1b](https://www.icloud.com/keynote/0uMNC1trxOw4C30NIMEhbnp-g#Lecture_1b)                              |
 |         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/4_vqH2KjcSc)                                                                   |
+| 2       | CSC 101      | [Lecture 1a](https://www.icloud.com/keynote/04EftXdw8IfDD1wkOWPXCXS9Q#Lecture_1a)                              |
+|         |              | [Lecture 1b](https://www.icloud.com/keynote/0uMNC1trxOw4C30NIMEhbnp-g#Lecture_1b)                              |
+|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
+|         |              | [Youtube Link](https://youtu.be/IUzoS8TrfmM)
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
