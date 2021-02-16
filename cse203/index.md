@@ -45,7 +45,14 @@ Couple of other important rules and regulation:
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
 | 0       | Introduction | [Google Jamboard](https://jamboard.google.com/d/1cBTQy53n5bbIO9-MxyeL0ymd0j3WF3YNgvs3ndli20E/viewer?f=7)       |
 |         |              | [Youtube Link](https://youtu.be/B6361_plZ9c)                                                                   |
-
+| 1       | Installation | [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)                                    |
+|         |              | [Visual Studio Code](https://code.visualstudio.com/)                                                           |
+|         |              | [Sublime Text](https://www.sublimetext.com/)                                                                   |
+|         |              | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view?usp=sharing)                    |
+|         |              | [Lecture 1a](https://www.icloud.com/keynote/04EftXdw8IfDD1wkOWPXCXS9Q#Lecture_1a)                              |
+|         |              | [Lecture 1b](https://www.icloud.com/keynote/0uMNC1trxOw4C30NIMEhbnp-g#Lecture_1b)                              |
+|         |              |[GoogleColab(https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
+|         |              | [Youtube Link](https://youtu.be/4_vqH2KjcSc)                                                                   |
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
