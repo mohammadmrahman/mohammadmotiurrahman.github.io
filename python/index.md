@@ -46,3 +46,12 @@ Also please subscribe to the forum at [groups.io](https://groups.io/g/pythonwork
 [Youtube Stream](https://youtu.be/7M-1FWkqmHM)
 
 
+## Lecture 5 Time: Feb 20th 2021, 7pm - 8:30pm
+
+[Google Colab Chapter 1](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter1.ipynb)
+
+[Google Colab Chapter 2](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter2.ipynb)
+
+[Youtube Stream](https://youtu.be/8Gx7-bubMEM)
+
+
