@@ -11,7 +11,9 @@ Office hours: [Google Meet](http://meet.google.com/vmb-wsha-qae)
 
 Saturday => 10am - 11:30am
 
-Sunday=> 10:00am - 11:00am	
+Tuesday =>	10:00am - 11:00am	
+
+Friday	11:00am - 12:00pm
 
 
 [Zulker Nayeen Nahiyan](mailto:1910063@iub.edu.bd) 
@@ -20,9 +22,9 @@ Office hours: [Google Meet](http://meet.google.com/rmm-fzar-yng)
 
 Saturday => 10am - 11:30am
 
-Sunday => 7pm - 8pm 
+Sunday => 6pm - 7pm 
 
-Tuesday => 7pm - 8pm 
+Tuesday => 6pm - 7pm 
 
 
 [Sharmin Islam Shroddha](mailto:1822217@iub.edu.bd) 
