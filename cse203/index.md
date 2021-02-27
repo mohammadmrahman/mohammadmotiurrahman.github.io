@@ -7,9 +7,35 @@ Email: motiur@iub.edu.bd
 ## Unofficial Teaching Assistants
 [Partho Prothim Saha](mailto:1730016@iub.edu.bd)
 
-[Zulker Nayeen Nahiyan](mailto:1910063@iub.edu.bd)
+Office hours: [Google Meet](http://meet.google.com/vmb-wsha-qae)
 
-[Sharmin Islam Shroddha](mailto:1822217@iub.edu.bd)
+Saturday => 10am - 11:30am
+
+Sunday=> 10:00am - 11:00am	
+
+
+[Zulker Nayeen Nahiyan](mailto:1910063@iub.edu.bd) 
+
+Office hours: [Google Meet](http://meet.google.com/rmm-fzar-yng)
+
+Saturday => 10am - 11:30am
+
+Sunday => 7pm - 8pm 
+
+Tuesday => 7pm - 8pm 
+
+
+[Sharmin Islam Shroddha](mailto:1822217@iub.edu.bd) 
+
+Office hours: [Google Meet](http://meet.google.com/dgy-aezu-ogp)
+
+Saturday => 10am - 11:30am
+
+Wednesday => 10am - 11.30am
+
+Friday => 9 am - 10.30 am
+
+Saturday => 9am - 10.30am
 * * *
 ## Class Timing
 ST: 1230-1400 T: 1100-1230
