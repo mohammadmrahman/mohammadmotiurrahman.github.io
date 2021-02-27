@@ -13,7 +13,7 @@ Saturday => 10am - 11:30am
 
 Tuesday =>	10:00am - 11:00am	
 
-Friday	11:00am - 12:00pm
+Friday => 11:00am - 12:00pm
 
 
 ### [Zulker Nayeen Nahiyan](mailto:1910063@iub.edu.bd) 
