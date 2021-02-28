@@ -83,7 +83,8 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/JXL1PM9Flag)                                                                   |
 | 3       | Variables    | [Lecture 2](https://www.icloud.com/keynote/0C1DV7B9lBgKwSg5HkycZui8Q#Lecture_2)                                |
 |         |              | [Youtube Link](https://youtu.be/X0Gzeyls6B4)                                                                   |
-
+| 4       | Variables    | [Lecture 2](https://www.icloud.com/keynote/0C1DV7B9lBgKwSg5HkycZui8Q#Lecture_2)                                |
+|         |              | [Youtube Link](https://youtu.be/nhWNOA9q8Ho)
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
