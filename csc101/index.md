@@ -92,7 +92,7 @@ Couple of other important rules and regulation:
 |         | Decisions    | [Lecture 5](https://www.icloud.com/keynote/05RI-YVoF3tKExaHpAqgQ53IA#Lecture_5)                                |
 |         |              | [Youtube Link](https://youtu.be/qwb7UfPKPq8)                                                                   |
 | 7       | Lab          | Google Colab Assignment 1                                                                                      |
-
+|         |              | [Youtube Link](https://youtu.be/VYgLQP3wUaU)                                                                   |
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
