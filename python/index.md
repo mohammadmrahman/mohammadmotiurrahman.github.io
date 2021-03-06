@@ -72,8 +72,9 @@ Also please subscribe to the forum at [groups.io](https://groups.io/g/pythonwork
 
 [Google Colab Chapter 5](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter5.ipynb)
 
-
 [Youtube Stream](https://youtu.be/Ot1M731zK3k)
+
+[Youtube Stream](https://youtu.be/nDZgZfC2Nm0)
 
 
 
