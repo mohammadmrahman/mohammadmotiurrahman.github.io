@@ -18,8 +18,6 @@ Sunday=> 10:00am - 11:00am
 
 Office hours: [Google Meet](http://meet.google.com/rmm-fzar-yng)
 
-Saturday => 10am - 11:30am
-
 Sunday => 7pm - 8pm 
 
 Tuesday => 7pm - 8pm 
