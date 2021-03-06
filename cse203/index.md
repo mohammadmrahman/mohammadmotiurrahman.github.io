@@ -35,7 +35,6 @@ Wednesday => 10am - 11.30am
 
 Friday => 9 am - 10.30 am
 
-Saturday => 9am - 10.30am
 * * *
 ## Class Timing
 ST: 1230-1400 T: 1100-1230
