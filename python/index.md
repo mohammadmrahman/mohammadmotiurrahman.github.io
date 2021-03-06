@@ -64,5 +64,16 @@ Also please subscribe to the forum at [groups.io](https://groups.io/g/pythonwork
 [Youtube Stream](https://youtu.be/-DqW6aBKpyE)
 
 
+## Lecture 7 Time: March 6th 2021, 7pm - 8:30pm
+
+[Google Colab Chapter 3](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter3.ipynb)
+
+[Google Colab Chapter 4](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter4.ipynb)
+
+[Google Colab Chapter 5](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/python/code/Chapter5.ipynb)
+
+
+[Youtube Stream](https://youtu.be/Ot1M731zK3k)
+
 
 
