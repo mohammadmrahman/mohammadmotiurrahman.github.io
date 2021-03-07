@@ -93,6 +93,10 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/qwb7UfPKPq8)                                                                   |
 | 7       | Lab          | Google Colab Assignment 1                                                                                      |
 |         |              | [Youtube Link](https://youtu.be/VYgLQP3wUaU)                                                                   |
+| 8       | Decisions    | [Lecture 5](https://www.icloud.com/keynote/05RI-YVoF3tKExaHpAqgQ53IA#Lecture_5)                                |
+|         | Loops        | [Lecture 6](https://www.icloud.com/keynote/0Snv-Qmmsi43dob_uPC_Ab9AQ#Lecture_6)                                |
+|         |              | [Youtube Link](https://youtu.be/C7uBZrf60_Y)                                                                   |
+
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
