@@ -98,6 +98,7 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/C7uBZrf60_Y)                                                                   |
 | 9       | Decisions    | [Lecture 5](https://www.icloud.com/keynote/05RI-YVoF3tKExaHpAqgQ53IA#Lecture_5)                                |
 |         | Loops        | [Lecture 6](https://www.icloud.com/keynote/0Snv-Qmmsi43dob_uPC_Ab9AQ#Lecture_6)                                |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1f3k2AYsQZYQMpvMjHnxTKXBIPT5eGJ_7h1chPxvpnpY/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/BDbPdbrBYlU)                                                                   |
 
 
