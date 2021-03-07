@@ -96,6 +96,9 @@ Couple of other important rules and regulation:
 | 8       | Decisions    | [Lecture 5](https://www.icloud.com/keynote/05RI-YVoF3tKExaHpAqgQ53IA#Lecture_5)                                |
 |         | Loops        | [Lecture 6](https://www.icloud.com/keynote/0Snv-Qmmsi43dob_uPC_Ab9AQ#Lecture_6)                                |
 |         |              | [Youtube Link](https://youtu.be/C7uBZrf60_Y)                                                                   |
+| 9       | Decisions    | [Lecture 5](https://www.icloud.com/keynote/05RI-YVoF3tKExaHpAqgQ53IA#Lecture_5)                                |
+|         | Loops        | [Lecture 6](https://www.icloud.com/keynote/0Snv-Qmmsi43dob_uPC_Ab9AQ#Lecture_6)                                |
+|         |              | [Youtube Link](https://youtu.be/BDbPdbrBYlU)                                                                   |
 
 
 ## Reference Books
