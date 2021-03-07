@@ -110,6 +110,15 @@ Couple of other important rules and regulation:
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1O1Ufp3NWzrTedMyDMk8w5fEp8wWE4ybHZX4UiaUbas8/edit?usp=sharing) |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/Pm-kglNknq8)                                                                   |
+| 8       | CSC 101      | [Lecture 1a](https://www.icloud.com/keynote/04EftXdw8IfDD1wkOWPXCXS9Q#Lecture_1a)                              |
+|         |              | [Lecture 1b](https://www.icloud.com/keynote/0uMNC1trxOw4C30NIMEhbnp-g#Lecture_1b)                              |
+|         |              | [Lecture 2a](https://www.icloud.com/keynote/0VLhiVca7Q_gz3eMYW4oeRjww#Lecture_2a)                              |
+|         |              | [Lecture 2b](https://www.icloud.com/keynote/0QOKuWix-X4nBzHcurPfdXyrg#Lecture_2b)                              |
+|         |              | [Google Jamboard]() |                                       
+|         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb) |
+|         |              | [Youtube Link](https://youtu.be/fVkOZm4Ot1A)                                                                   |
+
+
 
 
 ## Reference Books
