@@ -124,7 +124,7 @@ Couple of other important rules and regulation:
 |         |              | [Lecture 3a](https://www.icloud.com/keynote/0UchWoGmgrU7QS5ldzyz3Yctw#Lecture_3a)                              |
 |         |              | [Google Jamboard]()                                                                                            |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb) |
-|         |              | [Youtube Link](https://youtu.be/fVkOZm4Ot1A)                                                                   |
+|         |              | [Youtube Link](https://youtu.be/I1IDUyPRpA0)                                                                   |
 
 
 
