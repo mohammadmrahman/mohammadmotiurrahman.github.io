@@ -138,7 +138,7 @@ Couple of other important rules and regulation:
 |         |              | [Lecture 2a](https://www.icloud.com/keynote/0VLhiVca7Q_gz3eMYW4oeRjww#Lecture_2a)                              |
 |         |              | [Lecture 2b](https://www.icloud.com/keynote/0QOKuWix-X4nBzHcurPfdXyrg#Lecture_2b)                              |
 |         |              | [Lecture 3a](https://www.icloud.com/keynote/0UchWoGmgrU7QS5ldzyz3Yctw#Lecture_3a)                              |
-|         |              | [Google Jamboard](https://jamboard.google.com/d/1TM9Zq0Yy7FWxWI5P0r-o0ZbkUyzK0rzoBRr-sPe2iTk/edit?usp=sharing) |                                       
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1C7p2h0YkQ7LiYEnoBIfVn65JDCrCjHWJlHCJW8smbGo/edit?usp=sharing) |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/jaG7xq6yHyU)                                                                   |
 
