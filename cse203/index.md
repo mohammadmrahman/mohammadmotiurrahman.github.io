@@ -133,6 +133,14 @@ Couple of other important rules and regulation:
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1TM9Zq0Yy7FWxWI5P0r-o0ZbkUyzK0rzoBRr-sPe2iTk/edit?usp=sharing) |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/kgHmuJPC0tE)                                                                   |
+| 11      | File         | [Lecture 1a](https://www.icloud.com/keynote/04EftXdw8IfDD1wkOWPXCXS9Q#Lecture_1a)                              |
+|         | Pointer      | [Lecture 1b](https://www.icloud.com/keynote/0uMNC1trxOw4C30NIMEhbnp-g#Lecture_1b)                              |
+|         |              | [Lecture 2a](https://www.icloud.com/keynote/0VLhiVca7Q_gz3eMYW4oeRjww#Lecture_2a)                              |
+|         |              | [Lecture 2b](https://www.icloud.com/keynote/0QOKuWix-X4nBzHcurPfdXyrg#Lecture_2b)                              |
+|         |              | [Lecture 3a](https://www.icloud.com/keynote/0UchWoGmgrU7QS5ldzyz3Yctw#Lecture_3a)                              |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1TM9Zq0Yy7FWxWI5P0r-o0ZbkUyzK0rzoBRr-sPe2iTk/edit?usp=sharing) |                                       
+|         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb) |
+|         |              | [Youtube Link](https://youtu.be/jaG7xq6yHyU)                                                                   |
 
 
 
