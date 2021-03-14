@@ -104,7 +104,9 @@ Couple of other important rules and regulation:
 |         | Loops        | [Lecture 6](https://www.icloud.com/keynote/0Snv-Qmmsi43dob_uPC_Ab9AQ#Lecture_6)                                |
 |         |              | [Google Jamboard]()                                                                                            |
 |         |              | [Youtube Link](https://youtu.be/iuFa9uRUdaw)                                                                   |
-
+| 11      | Functions    | [Lecture 11](https://www.icloud.com/keynote/05tYL9Ol1stJvd72RJKGk6pOA#Lecture_11)                               |
+|         |              | [Google Jamboard]()                                                                                            |
+|         |              | [Youtube Link](https://youtu.be/k75sjPVIcjY)                                                                   |
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
