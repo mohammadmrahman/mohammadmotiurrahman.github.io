@@ -157,7 +157,7 @@ Couple of other important rules and regulation:
 |         |              | [Lecture 2b](https://www.icloud.com/keynote/0QOKuWix-X4nBzHcurPfdXyrg#Lecture_2b)                              |
 |         |              | [Lecture 3a](https://www.icloud.com/keynote/0UchWoGmgrU7QS5ldzyz3Yctw#Lecture_3a)                              |
 |         |              | [Lecture 4](https://www.icloud.com/keynote/044bz2h8wDvPJWlOR5JFj5H5A#Lecture_4)                                |
-|         |              | [Google Jamboard]()                                                                                            |                                       
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1BkrhCZ4ZvTsM2qr2cFmg8WG-YjSChTbxFBI67O9ZqtE/edit?usp=sharing) |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture2.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/j2K21hVx_IY)                                                                   |
