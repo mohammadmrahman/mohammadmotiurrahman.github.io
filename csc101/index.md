@@ -111,7 +111,7 @@ Couple of other important rules and regulation:
 |         |              | [Google Jamboard]()                                                                                            |
 |         |              | [Youtube Link](https://youtu.be/s5vOIYyfqLA)                                                                   |
 | 13      | Functions    | [Lecture 12](https://www.icloud.com/keynote/05tYL9Ol1stJvd72RJKGk6pOA#Lecture_12)                              |
-|         |              | [Google Jamboard]()                                                                                            |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1jQTaTKb17HGFQWivfBnlUcARMMozFk4n7gRuKRnDGbs/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/YTOIsTDi3s8)                                                                   |
 
 ## Reference Books
