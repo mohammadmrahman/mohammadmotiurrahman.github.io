@@ -151,6 +151,17 @@ Couple of other important rules and regulation:
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture2.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/Wci4UCJMGn8)                                                                   |
+| 13      | File         | [Lecture 1a](https://www.icloud.com/keynote/04EftXdw8IfDD1wkOWPXCXS9Q#Lecture_1a)                              |
+|         | Pointer      | [Lecture 1b](https://www.icloud.com/keynote/0uMNC1trxOw4C30NIMEhbnp-g#Lecture_1b)                              |
+|         | Struct       | [Lecture 2a](https://www.icloud.com/keynote/0VLhiVca7Q_gz3eMYW4oeRjww#Lecture_2a)                              |
+|         |              | [Lecture 2b](https://www.icloud.com/keynote/0QOKuWix-X4nBzHcurPfdXyrg#Lecture_2b)                              |
+|         |              | [Lecture 3a](https://www.icloud.com/keynote/0UchWoGmgrU7QS5ldzyz3Yctw#Lecture_3a)                              |
+|         |              | [Lecture 4](https://www.icloud.com/keynote/044bz2h8wDvPJWlOR5JFj5H5A#Lecture_4)                                |
+|         |              | [Google Jamboard]()                                                                                            |                                       
+|         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb) |
+|         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture2.ipynb) |
+|         |              | [Youtube Link](https://youtu.be/j2K21hVx_IY)                                                                   |
+
 
 
 
