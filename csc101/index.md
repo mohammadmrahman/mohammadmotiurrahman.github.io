@@ -113,6 +113,9 @@ Couple of other important rules and regulation:
 | 13      | Functions    | [Lecture 12](https://www.icloud.com/keynote/05tYL9Ol1stJvd72RJKGk6pOA#Lecture_12)                              |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1jQTaTKb17HGFQWivfBnlUcARMMozFk4n7gRuKRnDGbs/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/YTOIsTDi3s8)                                                                   |
+| 14      | Functions    | [Lecture 12](https://www.icloud.com/keynote/05tYL9Ol1stJvd72RJKGk6pOA#Lecture_12)                              |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1jQTaTKb17HGFQWivfBnlUcARMMozFk4n7gRuKRnDGbs/edit?usp=sharing) |
+|         |              | [Youtube Link](https://youtu.be/aYIIcV9hU-I)                                                                   |
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
