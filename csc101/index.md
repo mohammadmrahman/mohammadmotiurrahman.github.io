@@ -119,6 +119,9 @@ Couple of other important rules and regulation:
 | 15      | Functions    | [Lecture 12](https://www.icloud.com/keynote/05tYL9Ol1stJvd72RJKGk6pOA#Lecture_12)                              |
 |         |              | [Google Jamboard]()                                                                                            |
 |         |              | [Youtube Link](https://youtu.be/LxBUpD4p6Mg)                                                                   |
+| 16      | Functions    | [Lecture 12](https://www.icloud.com/keynote/05tYL9Ol1stJvd72RJKGk6pOA#Lecture_12)                              |
+|         |              | [Google Jamboard]()                                                                                            |
+|         |              | [Youtube Link](https://youtu.be/ib35kqflJJM)                                                                   |
 
 
 ## Reference Books
