@@ -128,6 +128,9 @@ Couple of other important rules and regulation:
 | 18      | Array        | [Lecture 15](https://www.icloud.com/keynote/0gTVMhk34Ec0GNjQwV2lnElfw#Lecture_15)                              |
 |         |              | [Google Jamboard]()                                                                                            |
 |         |              | [Youtube Link](https://youtu.be/PUJXOkN8B18)                                                                   |
+| 19      | Array        | [Lecture 15](https://www.icloud.com/keynote/0gTVMhk34Ec0GNjQwV2lnElfw#Lecture_15)                              |
+|         |              | [Google Jamboard]()                                                                                            |
+|         |              | [Youtube Link](https://youtu.be/qufKlgY9cM0)                                                                   |
 
 
 ## Reference Books
