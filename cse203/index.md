@@ -206,7 +206,7 @@ Couple of other important rules and regulation:
 | 19      |  Struct      | [Lecture 3a](https://www.icloud.com/keynote/0UchWoGmgrU7QS5ldzyz3Yctw#Lecture_3a)                              |
 |         |  Linked List | [Lecture 4](https://www.icloud.com/keynote/044bz2h8wDvPJWlOR5JFj5H5A#Lecture_4)                                |
 |         |              | [Lecture 5](https://www.icloud.com/keynote/0gugtV9GVmDEfAWayaoYNo3xw#Lecture_5)                                |
-|         |              | [Google Jamboard]()                                                                                            |                                       
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1ILKIBYM__90RBnqKSnpl8rHuoNK_VQYZlhyMPSibS-s/edit?usp=sharing) |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture2.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture3.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture4.ipynb) |
