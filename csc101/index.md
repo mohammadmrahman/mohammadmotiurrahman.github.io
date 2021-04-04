@@ -132,8 +132,11 @@ Couple of other important rules and regulation:
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1mc3mJpuFyOWphWp-rcORvkz7prtVQcBco7F7N7jpbZQ/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/qufKlgY9cM0)                                                                   |
 | 20      |Array&Function| [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
-|         |              | [Google Jamboard]()                                                                                            |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1_jXdaqjI6Fn8GL732iR7aAXUcaOE9HNxiddFH2G99q0/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/Yg2m3W80uhY)                                                                   |
+| 21      |Array&Function| [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1_jXdaqjI6Fn8GL732iR7aAXUcaOE9HNxiddFH2G99q0/edit?usp=sharing) |
+|         |              | [Youtube Link](https://youtu.be/O9E4HfvmA5c)                                                                   |
 
 
 ## Reference Books
