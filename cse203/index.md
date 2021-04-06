@@ -230,9 +230,6 @@ Couple of other important rules and regulation:
 
 
 ## Reference Books
-
-
-## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
 2. [Course reader of CS 106B from Stanford Univesity](https://bitly.com/cs106Bcoursereader)
 3. [A Computer Science Tapestry, second edition](https://www2.cs.duke.edu/csed/tapestry/)
