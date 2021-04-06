@@ -137,6 +137,10 @@ Couple of other important rules and regulation:
 | 21      |Array&Function| [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1_jXdaqjI6Fn8GL732iR7aAXUcaOE9HNxiddFH2G99q0/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/O9E4HfvmA5c)                                                                   |
+| 22      |Array&Function| [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
+|         |              | [Google Jamboard]() |
+|         |              | [Youtube Link](https://youtu.be/ISjPfiMRKxg)                                                                   |
+
 
 
 ## Reference Books
