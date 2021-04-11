@@ -140,6 +140,9 @@ Couple of other important rules and regulation:
 | 22      |Array&Function| [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1gtQrZtLhdFUueKidvfIbZ6ef5V-Yg2Fm76tHG3HK4eg/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/ISjPfiMRKxg)                                                                   |
+| 23      |Strings       | [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
+|         |              | [Google Jamboard]() |
+|         |              | [Youtube Link](https://youtu.be/NEShT9ariQ0)                                                                   |
 
 
 
