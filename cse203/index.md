@@ -236,6 +236,15 @@ Couple of other important rules and regulation:
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture3.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture4.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/zLsb52cp4GM)                                                                   |
+| 23      |  Struct      | [Lecture 3a](https://www.icloud.com/keynote/0UchWoGmgrU7QS5ldzyz3Yctw#Lecture_3a)                              |
+|         |  Linked List | [Lecture 4](https://www.icloud.com/keynote/044bz2h8wDvPJWlOR5JFj5H5A#Lecture_4)                                |
+|         |  Stack&Queue | [Lecture 5](https://www.icloud.com/keynote/0gugtV9GVmDEfAWayaoYNo3xw#Lecture_5)                                |
+|         |              | [Lecture 6](https://www.icloud.com/keynote/040CsTJj5SR1-16siJ10DrEjA#Lecture_6)                                |
+|         |              | [Google Jamboard]() |                                       
+|         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture2.ipynb) |
+|         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture3.ipynb) |
+|         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture4.ipynb) |
+|         |              | [Youtube Link](https://youtu.be/l5Vnmp1KRsI)                                                                   |
 
 
 ## Reference Books
