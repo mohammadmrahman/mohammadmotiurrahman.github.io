@@ -143,6 +143,10 @@ Couple of other important rules and regulation:
 | 23      |Strings       | [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
 |         |              | [Google Jamboard]() |
 |         |              | [Youtube Link](https://youtu.be/NEShT9ariQ0)                                                                   |
+| 24      |Strings       | [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
+|         |              | [Google Jamboard]() |
+|         |              | [Youtube Link](https://youtu.be/fV1ONcWyYo4)                                                                   |
+
 
 
 
