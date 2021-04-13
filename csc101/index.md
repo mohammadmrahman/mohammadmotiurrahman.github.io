@@ -146,6 +146,10 @@ Couple of other important rules and regulation:
 | 24      |Strings       | [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1rGICu4VWI0c5LdA1BME0kL8BI2ASFQeM4zGdvvpXajU/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/fV1ONcWyYo4)                                                                   |
+| 25      |2D array      | [Lecture 15](https://www.icloud.com/keynote/0_i7xho1jr1qDdQARxbQMVPgg#Lecture_20)                              |
+|         |              | [Google Jamboard]() |
+|         |              | [Youtube Link](https://youtu.be/0bKQo5qoF2E)                                                                   |
+
 
 
 
