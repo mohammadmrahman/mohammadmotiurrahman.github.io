@@ -150,7 +150,7 @@ Couple of other important rules and regulation:
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1LhmdwvzTHcnubaA27gAPecloOap2sOVkU3wzsrG3UOQ/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/0bKQo5qoF2E)                                                                   |
 | 26      |2D array      | [Lecture 21](https://www.icloud.com/keynote/0qrkcKDV7HjI3610viztHfZig#Lecture_21)                              |
-|         |              | [Google Jamboard]() |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1jIi07nnGAk6UTQravuvt6PQgJ4KhCANnQp0CGFqKZ4c/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/jPk4LlK8Rs0)                                                                   |
 
 
