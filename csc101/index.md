@@ -151,7 +151,7 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/0bKQo5qoF2E)                                                                   |
 | 26      |2D array      | [Lecture 21](https://www.icloud.com/keynote/0qrkcKDV7HjI3610viztHfZig#Lecture_21)                              |
 |         |              | [Google Jamboard]() |
-|         |              | [Youtube Link]()                                                                   |
+|         |              | [Youtube Link](https://youtu.be/jPk4LlK8Rs0)                                                                   |
 
 
 
