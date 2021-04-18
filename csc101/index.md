@@ -153,8 +153,12 @@ Couple of other important rules and regulation:
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1jIi07nnGAk6UTQravuvt6PQgJ4KhCANnQp0CGFqKZ4c/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/jPk4LlK8Rs0)                                                                   |
 | 27      |Memory        | [Lecture 22](https://www.icloud.com/keynote/0yGjcFYcj5uom2CXPAF0-RSsg#Lecture_22)                              |
-|         |              | [Google Jamboard]() |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1dnGmtg-4tNl09JBbfW_Ov5jqo2uxXXK3DwNSV0uXtLM/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/w_DEqHJrQAk)                                                                   |
+| 28      |Dynamic Memory| [Lecture 23](https://www.icloud.com/keynote/0bmcVvKNCzrmoJjMbr1ZErwGA#Lecture_23)                              |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1dnGmtg-4tNl09JBbfW_Ov5jqo2uxXXK3DwNSV0uXtLM/edit?usp=sharing) |
+|         |              | [Youtube Link](https://youtu.be/PwlR7WRIdpI)                                                                   |
+
 
 
 
