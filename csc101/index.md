@@ -160,7 +160,7 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/PwlR7WRIdpI)                                                                   |
 | 29      |File          | [Lecture 25](https://www.icloud.com/keynote/0hwPhJ2c9pMFuunCQH3PR0sEQ#Lecture_25)                              |
 |         |Recursion     | [Lecture 26](https://www.icloud.com/keynote/0RWt5WUaNYa65jguFR7lp-eww#Lecture_26)                              |
-|         |              | [Google Jamboard]() |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/13X8ro2uzzeETldzc4MM2w1PJv07pksNUnEupcSuYQyQ/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/9bsEqgDBwP8)                                                                   |
 
 
