@@ -155,9 +155,13 @@ Couple of other important rules and regulation:
 | 27      |Memory        | [Lecture 22](https://www.icloud.com/keynote/0yGjcFYcj5uom2CXPAF0-RSsg#Lecture_22)                              |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1dnGmtg-4tNl09JBbfW_Ov5jqo2uxXXK3DwNSV0uXtLM/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/w_DEqHJrQAk)                                                                   |
-| 28      |Dynamic Memory| [Lecture 23](https://www.icloud.com/keynote/0bmcVvKNCzrmoJjMbr1ZErwGA#Lecture_23)                              |
+| 28      |Memory&Pointer| [Lecture 22](https://www.icloud.com/keynote/0yGjcFYcj5uom2CXPAF0-RSsg#Lecture_22)                              |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1dnGmtg-4tNl09JBbfW_Ov5jqo2uxXXK3DwNSV0uXtLM/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/PwlR7WRIdpI)                                                                   |
+| 29      |File          | [Lecture 25](https://www.icloud.com/keynote/0hwPhJ2c9pMFuunCQH3PR0sEQ#Lecture_25)                              |
+|         |Recursion     | [Lecture 26](https://www.icloud.com/keynote/0RWt5WUaNYa65jguFR7lp-eww#Lecture_26)                              |
+|         |              | [Google Jamboard]() |
+|         |              | [Youtube Link](https://youtu.be/9bsEqgDBwP8)                                                                   |
 
 
 
