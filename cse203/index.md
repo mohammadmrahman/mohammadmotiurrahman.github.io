@@ -275,6 +275,13 @@ Couple of other important rules and regulation:
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture5.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture6.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/63fD1JAus3E)                                                                   |
+| 28      | Doubly Linked List | [Lecture 7](https://www.icloud.com/keynote/0YzPuVlYKASMK9m_opN88UUeA#Lecture_7)                                |
+|         | Binary Search Tree | [Lecture 9](https://www.icloud.com/keynote/0eCu5xAMbNPLW0ou1kX5sklKQ#Lecture_9)                                |
+|         |              | [Google Jamboard]() |                                       
+|         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture5.ipynb) |
+|         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture6.ipynb) |
+|         |              | [Youtube Link](https://youtu.be/HXwI5oL4JFA)                                                                   |
+
 
 
 
