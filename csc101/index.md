@@ -166,6 +166,10 @@ Couple of other important rules and regulation:
 |         |Recursion     | [Lecture 26](https://www.icloud.com/keynote/0RWt5WUaNYa65jguFR7lp-eww#Lecture_26)                              |
 |         |              | [Google Jamboard]() |
 |         |              | [Youtube Link](https://youtu.be/GpI4-2NvF7U)                                                                   |
+| 31      |File          | [Lecture 25](https://www.icloud.com/keynote/0hwPhJ2c9pMFuunCQH3PR0sEQ#Lecture_25)                              |
+|         |Recursion     | [Lecture 26](https://www.icloud.com/keynote/0RWt5WUaNYa65jguFR7lp-eww#Lecture_26)                              |
+|         |              | [Google Jamboard]() |
+|         |              | [Youtube Link](https://youtu.be/mYvhc3NKa0Y)                                                                   |
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
