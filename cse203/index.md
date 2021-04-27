@@ -257,7 +257,7 @@ Couple of other important rules and regulation:
 | 25      |  Struct      | [Lecture 3a](https://www.icloud.com/keynote/0UchWoGmgrU7QS5ldzyz3Yctw#Lecture_3a)                              |
 |         |  Linked List | [Lecture 4](https://www.icloud.com/keynote/044bz2h8wDvPJWlOR5JFj5H5A#Lecture_4)                                |
 |         |  Stack&Queue | [Lecture 5](https://www.icloud.com/keynote/0gugtV9GVmDEfAWayaoYNo3xw#Lecture_5)                                |
-|         | Doubly Linked List | [Lecture 6](https://www.icloud.com/keynote/040CsTJj5SR1-16siJ10DrEjA#Lecture_6)                                |
+|         | Doubly Linked List | [Lecture 6](https://www.icloud.com/keynote/0xktOleSnrRPzfDiqY0KkDi3w#Lecture_6)                                |
 |         |              | [Lecture 7](https://www.icloud.com/keynote/0whiQBnORJ5pZe94R2ujzVcpw#Lecture_7)                                |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1f6tTurEd_RMgw46kEE67Caxvbjbi4SG0XoB6IrUVOiA/edit?usp=sharing) |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture5.ipynb) |
@@ -299,7 +299,7 @@ Couple of other important rules and regulation:
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture8.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/8xhTIxk73nQ)                                                                   |
 | 32      | Binary Search Tree | [Lecture 9](https://www.icloud.com/keynote/0eCu5xAMbNPLW0ou1kX5sklKQ#Lecture_9)                                |
-|         | Graph | [Lecture 10](https://www.icloud.com/keynote/0wh5gIZmi7De4KpyJXcG2uwQQ#Lecture_10)                                |
+|         | Graph | [Lecture 10](https://www.icloud.com/keynote/0aM2IaKCL0Xtav2G8ZVAKPxVA#Lecture_10)                                |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1jLKY6kQJ2q-4WavoLFLZxazyChtnc80TDHcLeEvoeoY/edit?usp=sharing) |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture6.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture7.ipynb) |
