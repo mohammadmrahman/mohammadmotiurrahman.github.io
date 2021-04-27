@@ -172,7 +172,7 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/mYvhc3NKa0Y)                                                                   |
 | 32      |File          | [Lecture 25](https://www.icloud.com/keynote/0hwPhJ2c9pMFuunCQH3PR0sEQ#Lecture_25)                              |
 |         |Recursion     | [Lecture 26](https://www.icloud.com/keynote/0RWt5WUaNYa65jguFR7lp-eww#Lecture_26)                              |
-|         |              | [Google Jamboard]() |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1p-MaDw7dZzvdOSI4o_unVrUA0IxgImbGL8-F-bduMAA/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/OD7Vnrwr-RA)                                                                   |
 
 ## Reference Books
