@@ -293,7 +293,7 @@ Couple of other important rules and regulation:
 |         |              | [Youtube Link](https://youtu.be/OjdPqHd0b_I)                                                                   |
 | 31      | Binary Search Tree | [Lecture 9](https://www.icloud.com/keynote/0eCu5xAMbNPLW0ou1kX5sklKQ#Lecture_9)                                |
 |         | Graph | [Lecture 10](https://www.icloud.com/keynote/0wh5gIZmi7De4KpyJXcG2uwQQ#Lecture_10)                                |
-|         |              | [Google Jamboard]() |                                       
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1jLKY6kQJ2q-4WavoLFLZxazyChtnc80TDHcLeEvoeoY/edit?usp=sharing) |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture6.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture7.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture8.ipynb) |
