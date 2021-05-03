@@ -306,7 +306,7 @@ Couple of other important rules and regulation:
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture8.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/nMgj37vWV1Y)                                                                   |
 | 33      | Graph        | [Lecture 10](https://www.icloud.com/keynote/0aM2IaKCL0Xtav2G8ZVAKPxVA#Lecture_10)                              |
-|         |              | [Google Jamboard]() |                                       
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1uJvbyRih2a3i7ChNlmbmIS7fgee2Ut8yUgPd7ORMQGc/edit?usp=sharing) |                                       
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture8.ipynb) |
 |         |              | [Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture9.ipynb) |
 |         |              | [Youtube Link](https://youtu.be/GEOmNJ3uEgQ)  |     
