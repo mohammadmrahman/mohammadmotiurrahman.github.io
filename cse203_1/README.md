@@ -1,1 +1,1 @@
-CSE 203 Section 1 Spring 2021
+CSE 203 Section 1 Summer 2021
