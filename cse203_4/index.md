@@ -25,7 +25,7 @@ Office Hour Time: By appointment
 
 * * *
 ## Class Timing
-S: 8:00 to 11:00 T: 0800-0930
+M 11:00-12:30  W 09:30-12:30
 * * *
 ## Grading Scheme (Tentative)
 Assignments - 10 marks
