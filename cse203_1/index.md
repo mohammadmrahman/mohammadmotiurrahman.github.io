@@ -45,19 +45,32 @@ Also read the following code of conduct expected from IUB authorities: Page 38 a
 
 Couple of other important rules and regulation: 
 
-<b>a.</b>You are expected to mute your microphone by default. If you have a question, type it in the chatbox on the right hand side of the Google Meet window, or raise your hand. I will check the chatbox on regular intervals. If your question is not answered adequately, you may open your microphone and ask the question verbally.
+<b>a.</b>You are expected to keep your video feed all the time during the class time. Use background blur in Google Meet and/or burqa to preserve your privacy. However, I
+want to see your video feed all the time during the class hour.
 
-<b>b.</b>You are also expected to show decent behavior while the class is being conducted. You shall not be permitted such behaviors in the classrooms which are not permitted in Bangladeshi society. Remember even though you are online your behavior might affect other students as well as the instructor who is taking the class. The classes will be recorded, so please maintain decency.
+<b>b.</b>You are expected to have extendable webcam with you. If you fail to have it your exam copies will not be evaluated due to absence of proper proctoring environment.
+You can find extendable webcams [here](https://www.startech.com.bd/accessories/webcam) and [here](https://www.ryanscomputers.com/category/camera-webcam).
 
-<b>c.</b>There has been reports that students showed reluctance in wearing decent clothes while taking online classes. So be aware of that. What are decent clothes you may ask. These are attires which you would normally wear in a physical classroom of IUB. It does not has to fancy, it just has to be decent.
+<b>c.</b>You are expected to have a properly lighted room during evaluation. For dimly lighted you are requested to buy a reading desk lamp. Failure to have a proper proctoring
+environment will force me to not evaluate your exam copies.
+
+<b>d.</b>If you are found guilty of plagiarism during quiz or assignments you will get a 0 mark. If you are found guilty of showing your answer to some one else during Midterm, you will be downgraded two successive grades, if you again show copy during Final Exam you will be given an F. Students who copies answer from other students will simply get 0 marks , no questions asked. 
+
+<b>e.</b>You are expected to mute your microphone by default. If you have a question, type it in the chatbox on the right hand side of the Google Meet window, or raise your hand. I will check the chatbox on regular intervals. If your question is not answered adequately, you may open your microphone and ask the question verbally.
+
+<b>f.</b>You are also expected to show decent behavior while the class is being conducted. You shall not be permitted such behaviors in the classrooms which are not permitted in Bangladeshi society. Remember even though you are online your behavior might affect other students as well as the instructor who is taking the class. The classes will be recorded, so please maintain decency.
+
+<b>g.</b>There has been reports that students showed reluctance in wearing decent clothes while taking online classes. So be aware of that. What are decent clothes you may ask. These are attires which you would normally wear in a physical classroom of IUB. It does not has to fancy, it just has to be decent.
+
+<b>h.</b>If you are not comfortable with the workings of this class , you can email the head of the Department [Dr. Mahady Hasan](mailto:mahady@iub.edu.bd ) and then the Dean of Department [Dr Yusuf Mahbubul Islam](mailto:ymislam@iub.edu.bd ). If you feel you need to complain to more "important" entities besides these two personnel, I would request you to rethink taking this course.
 * * *   
 
 ## Class Schedule
 
 | Class   | Topics       | Notes                                                                                                          | 
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
-| 0       | Introduction | [Google Jamboard](https://jamboard.google.com/d/1cBTQy53n5bbIO9-MxyeL0ymd0j3WF3YNgvs3ndli20E/viewer?f=7)       |
-|         |              | [Youtube Link](https://youtu.be/B6361_plZ9c)                                                                   |
+| 0       | Introduction | [Google Jamboard]()       |
+|         |              | [Youtube Link]()                                                                   |
 | 1       | Installation | [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)                                    |
 |         |              | [Visual Studio Code](https://code.visualstudio.com/)                                                           |
 |         |              | [Sublime Text](https://www.sublimetext.com/)                                                                   |
@@ -65,7 +78,7 @@ Couple of other important rules and regulation:
 |         |              | [Lecture 1a](https://www.icloud.com/keynote/04EftXdw8IfDD1wkOWPXCXS9Q#Lecture_1a)                              |
 |         |              | [Lecture 1b](https://www.icloud.com/keynote/0uMNC1trxOw4C30NIMEhbnp-g#Lecture_1b)                              |
 |         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
-|         |              | [Youtube Link](https://youtu.be/4_vqH2KjcSc)                                                                   |
+|         |              | [Youtube Link]()                                                                   |
  
 
 
