@@ -69,8 +69,8 @@ environment will force me to not evaluate your exam copies.
 
 | Class   | Topics       | Notes                                                                                                          | 
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
-| 0       | Introduction | [Google Jamboard]()       |
-|         |              | [Youtube Link]()                                                                   |
+| 0       | Introduction | [Google Jamboard](https://jamboard.google.com/d/1SBG4Yb7kC1OfqlhjB9-el0sSzUGx7pfm6X09sDOnhGQ/edit?usp=sharing)       |
+|         |              | [Youtube Link](https://youtu.be/7GUn7ZrJa7o)                                                                   |
 | 1       | Installation | [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)                                    |
 |         |              | [Visual Studio Code](https://code.visualstudio.com/)                                                           |
 |         |              | [Sublime Text](https://www.sublimetext.com/)                                                                   |
