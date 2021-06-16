@@ -76,9 +76,8 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Visual Studio Code](https://code.visualstudio.com/)                                                           |
 |         |              | [Sublime Text](https://www.sublimetext.com/)                                                                   |
 |         |              | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view?usp=sharing)                    |
-|         |              | [Lecture 1a]()                              |
-|         |              | [Lecture 1b]()                              |
-|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
+|         |              | [Youtube Link](https://youtu.be/PcLGXAaFKDQ)                                                                   |
+| 2       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
 |         |              | [Youtube Link]()                                                                   |
  
 
