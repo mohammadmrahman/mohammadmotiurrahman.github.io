@@ -78,7 +78,7 @@ environment will force me to not evaluate your exam copies.
 |         |              | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view?usp=sharing)                    |
 |         |              | [Youtube Link](https://youtu.be/PcLGXAaFKDQ)                                                                   |
 | 2       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              | [Youtube Link]()                                                                   |
+|         |              | [Youtube Link](https://youtu.be/qbFnzsvro2s)                                                                   |
  
 
 
