@@ -85,6 +85,11 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
 |         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/Am3SJwfnqYM)                                                                   |
+| 4       |              | [Google Jamboard]() |
+|         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
+|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
+|         |              | [Youtube Link](https://youtu.be/aW0z-1cltPA)                                                                   |
+
 
 
 ## Reference Books
