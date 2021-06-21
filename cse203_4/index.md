@@ -80,6 +80,9 @@ environment will force me to not evaluate your exam copies.
 | 2       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
 |         |              | [Youtube Link](https://youtu.be/qbFnzsvro2s)                                                                   |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1vnzNTS0fedQAAAS4AiVz1frGqOR_1bVi9xM2fX8V7hQ/edit?usp=sharing) |
+| 3       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
+|         |              | [Youtube Link](https://youtu.be/BvFf7f6VmD0)                                                                   |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1vnzNTS0fedQAAAS4AiVz1frGqOR_1bVi9xM2fX8V7hQ/edit?usp=sharing) |
 
 
 ## Reference Books
