@@ -83,6 +83,9 @@ environment will force me to not evaluate your exam copies.
 | 3       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
 |         |              | [Youtube Link](https://youtu.be/BvFf7f6VmD0)                                                                   |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1vnzNTS0fedQAAAS4AiVz1frGqOR_1bVi9xM2fX8V7hQ/edit?usp=sharing) |
+| 4       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
+|         |              | [Youtube Link](https://youtu.be/BvFf7f6VmD0)                                                                   |
+|         |              | [Google Jamboard](https://youtu.be/5wF9gAJWG5E) |
 
 
 ## Reference Books
