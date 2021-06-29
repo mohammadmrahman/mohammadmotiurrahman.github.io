@@ -110,7 +110,7 @@ environment will force me to not evaluate your exam copies.
 
 ## Slides
 
-
+|                                               |                                              |
 |:----------------------------------------------|:---------------------------------------------|
 | [Lecture 0](/cse203slides/Lecture%200.pdf)    | [Lecture 1a](/cse203slides/Lecture%201a.pdf) |
 | [Lecture 1b](/cse203slides/Lecture%201b.pdf)  | [Lecture 2a](/cse203slides/Lecture%202a.pdf) |
@@ -124,7 +124,7 @@ environment will force me to not evaluate your exam copies.
 
 ## Google Colab
 
-
+|                                                   |                                                |
 |:--------------------------------------------------|:-----------------------------------------------|
 | [Lecture 1](/cse203/code/CSE203Lecture1.ipynb)    | [Lecture 2](/cse203/code/CSE203Lecture2.ipynb) |
 | [Lecture 3](/cse203/code/CSE203Lecture3.ipynb)    | [Lecture 4](/cse203/code/CSE203Lecture4.ipynb) |
