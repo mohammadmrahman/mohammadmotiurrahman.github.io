@@ -118,7 +118,18 @@ environment will force me to not evaluate your exam copies.
 | [Lecture 10](/cse203slides/Lecture%2010.pdf)  | [Lecture 11](/cse203slides/Lecture%2011.pdf) |
 
 
+## Google Colab
+|                                                   |                                                |
+|:--------------------------------------------------|:-----------------------------------------------|
+| [Lecture 1](/cse203/code/CSE203Lecture1.ipynb)    | [Lecture 2](/cse203/code/CSE203Lecture2.ipynb) |
+| [Lecture 3](/cse203/code/CSE203Lecture3.ipynb)    | [Lecture 4](/cse203/code/CSE203Lecture4.ipynb) |
+| [Lecture 5](/cse203/code/CSE203Lecture5.ipynb)    | [Lecture 6](/cse203/code/CSE203Lecture6.ipynb) |
+| [Lecture 7](/cse203/code/CSE203Lecture7.ipynb)    | [Lecture 8](/cse203/code/CSE203Lecture8.ipynb) |
+| [Lecture 9](/cse203/code/CSE203Lecture9.ipynb)    | [Lecture 10](/cse203/code/CSE203Lecture10.ipynb)|
 
+
+
+(/cse203/code/CSE203Lecture1.ipynb)|
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
