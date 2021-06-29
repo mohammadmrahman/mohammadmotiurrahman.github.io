@@ -93,6 +93,35 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Youtube Link](https://youtu.be/esbnUv187cw)                                                                   |
 |         |              | [Google Jamboard]() |
 
+
+
+## Slides
+
+| Lecture Slides in PDF                         |                                              |
+|:----------------------------------------------|:---------------------------------------------|
+| [Lecture 0](/cse203slides/Lecture%200.pdf)    | [Lecture 1a](/cse203slides/Lecture%201a.pdf) |
+| [Lecture 1b](/cse203slides/Lecture%201b.pdf)  | [Lecture 2a](/cse203slides/Lecture%202a.pdf) |
+| [Lecture 2b](/cse203slides/Lecture%202b.pdf)  | [Lecture 3a](/cse203slides/Lecture%203a.pdf) |
+| [Lecture 4](/cse203slides/Lecture%204.pdf)    | [Lecture 5](/cse203slides/Lecture%205.pdf)   |
+| [Lecture 6](/cse203slides/Lecture%206.pdf)    | [Lecture 7](/cse203slides/Lecture%207.pdf)   |
+| [Lecture 8](/cse203slides/Lecture%208.pdf)    | [Lecture 9](/cse203slides/Lecture%209.pdf)   |
+| [Lecture 10](/cse203slides/Lecture%2010.pdf)  | [Lecture 11](/cse203slides/Lecture%2011.pdf) |
+
+
+
+## Google Colab
+
+| Lecture code in C++                               |                                                |
+|:--------------------------------------------------|:-----------------------------------------------|
+| [Lecture 1](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)    | [Lecture 2](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture2.ipynb) |
+| [Lecture 3](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture3.ipynb)    | [Lecture 4](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture4.ipynb) |
+| [Lecture 5](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture5.ipynb)    | [Lecture 6](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture6.ipynb) |
+| [Lecture 7](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture7.ipynb)    | [Lecture 8](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture8.ipynb) |
+| [Lecture 9](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture9.ipynb)    | [Lecture 10](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture10.ipynb)|
+
+
+
+
 ## Reference Books
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
