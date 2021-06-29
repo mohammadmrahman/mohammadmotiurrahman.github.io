@@ -128,9 +128,6 @@ environment will force me to not evaluate your exam copies.
 | [Lecture 9](/cse203/code/CSE203Lecture9.ipynb)    | [Lecture 10](/cse203/code/CSE203Lecture10.ipynb)|
 
 
-
-(/cse203/code/CSE203Lecture1.ipynb)|
-
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
 2. [Course reader of CS 106B from Stanford Univesity](https://bitly.com/cs106Bcoursereader)
