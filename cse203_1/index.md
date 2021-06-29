@@ -108,19 +108,33 @@ environment will force me to not evaluate your exam copies.
 
 ## Class Slides
 [Lecture 0](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%200.pdf)
+
 [Lecture 1a](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%201a.pdf)
+
 [Lecture 1b](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%201b.pdf)
+
 [Lecture 2a](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%202a.pdf)
+
 [Lecture 2b](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%202b.pdf)
+
 [Lecture 3a](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%203a.pdf)
+
 [Lecture 3b](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%203b.pdf)
+
 [Lecture 4](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%204.pdf)
+
 [Lecture 5](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%205.pdf)
+
 [Lecture 6](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%206.pdf)
+
 [Lecture 7](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%207.pdf)
+
 [Lecture 8](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%208.pdf)
+
 [Lecture 9](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%209.pdf)
+
 [Lecture 10](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%2010.pdf)
+
 [Lecture 11](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203slides/Lecture%2011.pdf)
 
 
