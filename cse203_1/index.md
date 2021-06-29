@@ -63,6 +63,7 @@ environment will force me to not evaluate your exam copies.
 <b>g.</b>There has been reports that students showed reluctance in wearing decent clothes while taking online classes. So be aware of that. What are decent clothes you may ask. These are attires which you would normally wear in a physical classroom of IUB. It does not has to fancy, it just has to be decent.
 
 <b>h.</b>If you are not comfortable with the workings of this class , you can email the head of the Department [Dr. Mahady Hasan](mailto:mahady@iub.edu.bd ) and then the Dean of Department [Dr Yusuf Mahbubul Islam](mailto:ymislam@iub.edu.bd ). If you feel you need to complain to more "important" entities besides these two personnel, I would request you to rethink taking this course.
+
 * * *   
 
 ## Class Schedule
@@ -105,6 +106,7 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
 |         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/iEa1R6SENvw)                                                                   |
+
 * * * 
 
 ## Reference Books
