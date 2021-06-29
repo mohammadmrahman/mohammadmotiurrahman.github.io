@@ -109,6 +109,7 @@ environment will force me to not evaluate your exam copies.
 
 ## Slides
 
+| Class                                         | Topics                                       |
 |:----------------------------------------------|:---------------------------------------------|
 | [Lecture 0](/cse203slides/Lecture%200.pdf)    | [Lecture 1a](/cse203slides/Lecture%201a.pdf) |
 | [Lecture 1b](/cse203slides/Lecture%201b.pdf)  | [Lecture 2a](/cse203slides/Lecture%202a.pdf) |
