@@ -77,20 +77,15 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Sublime Text](https://www.sublimetext.com/)                                                                   |
 |         |              | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view?usp=sharing)                    |
 |         |              | [Youtube Link](https://youtu.be/PcLGXAaFKDQ)                                                                   |
-| 2       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              | [Youtube Link](https://youtu.be/qbFnzsvro2s)                                                                   |
+| 2       |              | [Youtube Link](https://youtu.be/qbFnzsvro2s)                                                                   |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1vnzNTS0fedQAAAS4AiVz1frGqOR_1bVi9xM2fX8V7hQ/edit?usp=sharing) |
-| 3       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              | [Youtube Link](https://youtu.be/BvFf7f6VmD0)                                                                   |
+| 3       |              | [Youtube Link](https://youtu.be/BvFf7f6VmD0)                                                                   |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1vnzNTS0fedQAAAS4AiVz1frGqOR_1bVi9xM2fX8V7hQ/edit?usp=sharing) |
-| 4       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              | [Youtube Link](https://youtu.be/BvFf7f6VmD0)                                                                   |
+| 4       |              | [Youtube Link](https://youtu.be/BvFf7f6VmD0)                                                                   |
 |         |              | [Google Jamboard]() |
-| 5       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              | [Youtube Link](https://youtu.be/8MQWhXwg77M)                                                                   |
+| 5       |              | [Youtube Link](https://youtu.be/8MQWhXwg77M)                                                                   |
 |         |              | [Google Jamboard]() |
-| 6       |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              | [Youtube Link](https://youtu.be/esbnUv187cw)                                                                   |
+| 6       |              | [Youtube Link](https://youtu.be/esbnUv187cw)                                                                   |
 |         |              | [Google Jamboard]() |
 
 
