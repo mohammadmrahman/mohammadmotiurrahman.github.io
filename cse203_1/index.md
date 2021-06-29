@@ -107,6 +107,7 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Youtube Link](https://youtu.be/iEa1R6SENvw)                                                                   |
 
 
+
 ## Slides
 
 |:----------------------------------------------|:---------------------------------------------|
@@ -119,6 +120,7 @@ environment will force me to not evaluate your exam copies.
 | [Lecture 10](/cse203slides/Lecture%2010.pdf)  | [Lecture 11](/cse203slides/Lecture%2011.pdf) |
 
 
+
 ## Google Colab
 
 |:--------------------------------------------------|:-----------------------------------------------|
@@ -127,6 +129,7 @@ environment will force me to not evaluate your exam copies.
 | [Lecture 5](/cse203/code/CSE203Lecture5.ipynb)    | [Lecture 6](/cse203/code/CSE203Lecture6.ipynb) |
 | [Lecture 7](/cse203/code/CSE203Lecture7.ipynb)    | [Lecture 8](/cse203/code/CSE203Lecture8.ipynb) |
 | [Lecture 9](/cse203/code/CSE203Lecture9.ipynb)    | [Lecture 10](/cse203/code/CSE203Lecture10.ipynb)|
+
 
 
 ## Reference Books
