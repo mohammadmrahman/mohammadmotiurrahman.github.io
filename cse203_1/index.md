@@ -106,7 +106,7 @@ environment will force me to not evaluate your exam copies.
 |         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/iEa1R6SENvw)                                                                   |
 
-* * * 
+
 
 ## Slides
 
@@ -120,7 +120,7 @@ environment will force me to not evaluate your exam copies.
 | [Lecture 8](/cse203slides/Lecture%208.pdf)    | [Lecture 9](/cse203slides/Lecture%209.pdf)   |
 | [Lecture 10](/cse203slides/Lecture%2010.pdf)  | [Lecture 11](/cse203slides/Lecture%2011.pdf) |
 
-* * * 
+
 
 ## Google Colab
 
@@ -132,7 +132,7 @@ environment will force me to not evaluate your exam copies.
 | [Lecture 7](/cse203/code/CSE203Lecture7.ipynb)    | [Lecture 8](/cse203/code/CSE203Lecture8.ipynb) |
 | [Lecture 9](/cse203/code/CSE203Lecture9.ipynb)    | [Lecture 10](/cse203/code/CSE203Lecture10.ipynb)|
 
-* * *
+
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
