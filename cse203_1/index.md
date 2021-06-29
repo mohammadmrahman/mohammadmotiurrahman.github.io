@@ -126,11 +126,11 @@ environment will force me to not evaluate your exam copies.
 
 | Lecture code in C++                               |                                                |
 |:--------------------------------------------------|:-----------------------------------------------|
-| [Lecture 1](/cse203/code/CSE203Lecture1.ipynb)    | [Lecture 2](/cse203/code/CSE203Lecture2.ipynb) |
-| [Lecture 3](/cse203/code/CSE203Lecture3.ipynb)    | [Lecture 4](/cse203/code/CSE203Lecture4.ipynb) |
-| [Lecture 5](/cse203/code/CSE203Lecture5.ipynb)    | [Lecture 6](/cse203/code/CSE203Lecture6.ipynb) |
-| [Lecture 7](/cse203/code/CSE203Lecture7.ipynb)    | [Lecture 8](/cse203/code/CSE203Lecture8.ipynb) |
-| [Lecture 9](/cse203/code/CSE203Lecture9.ipynb)    | [Lecture 10](/cse203/code/CSE203Lecture10.ipynb)|
+| [Lecture 1](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)    | [Lecture 2](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture2.ipynb) |
+| [Lecture 3](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture3.ipynb)    | [Lecture 4](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture4.ipynb) |
+| [Lecture 5](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture5.ipynb)    | [Lecture 6](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture6.ipynb) |
+| [Lecture 7](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture7.ipynb)    | [Lecture 8](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture8.ipynb) |
+| [Lecture 9](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture9.ipynb)    | [Lecture 10](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture10.ipynb)|
 
 
 
