@@ -109,7 +109,7 @@ environment will force me to not evaluate your exam copies.
 
 ## Slides
 
-| Class   | Topics       |                                                                                                           | 
+| Class   | Topics       |          
 |:--------|:-------------|
 | 0       | Introduction | 
 |         |              | 
