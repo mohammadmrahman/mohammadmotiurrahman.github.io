@@ -109,19 +109,15 @@ environment will force me to not evaluate your exam copies.
 
 ## Slides
 
-| Class   | Topics       |          
-|:--------|:-------------|
-| 0       | Introduction | 
-|         |              | 
-| 1       | Installation | 
-|         |  d            | 
-|         |   d           | 
-|         |    f          | 
-|         |     g         | 
-|         |       h       | 
-| 2       |      h        | 
-|         |         h     | 
-|         |        h      |
+| Class                                         | Topics                                       |          
+|:----------------------------------------------|:---------------------------------------------|
+| [Lecture 0](/cse203slides/Lecture%200.pdf)    | [Lecture 1a](/cse203slides/Lecture%201a.pdf) |
+| [Lecture 1b](/cse203slides/Lecture%201b.pdf)  | [Lecture 2a](/cse203slides/Lecture%202a.pdf) |
+| [Lecture 2b](/cse203slides/Lecture%202b.pdf)  | [Lecture 3a](/cse203slides/Lecture%203a.pdf) |
+| [Lecture 4](/cse203slides/Lecture%204.pdf)    | [Lecture 5](/cse203slides/Lecture%205.pdf)   |
+| [Lecture 6](/cse203slides/Lecture%206.pdf)    | [Lecture 7](/cse203slides/Lecture%207.pdf)   |
+| [Lecture 8](/cse203slides/Lecture%208.pdf)    | [Lecture 9](/cse203slides/Lecture%209.pdf)   |
+| [Lecture 10](/cse203slides/Lecture%2010.pdf)  | [Lecture 11](/cse203slides/Lecture%2011.pdf) |
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
