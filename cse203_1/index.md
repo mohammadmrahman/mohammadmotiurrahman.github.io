@@ -114,14 +114,14 @@ environment will force me to not evaluate your exam copies.
 | 0       | Introduction | 
 |         |              | 
 | 1       | Installation | 
-|         |              | 
-|         |              | 
-|         |              | 
-|         |              | 
-|         |              | 
-| 2       |              | 
-|         |              | 
-|         |              |
+|         |  d            | 
+|         |   d           | 
+|         |    f          | 
+|         |     g         | 
+|         |       h       | 
+| 2       |      h        | 
+|         |         h     | 
+|         |        h      |
 
 ## Reference Books
 1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
