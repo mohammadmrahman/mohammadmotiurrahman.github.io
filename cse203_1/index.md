@@ -78,32 +78,18 @@ environment will force me to not evaluate your exam copies.
 |         |              | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view?usp=sharing)                    |
 |         |              | [Youtube Link](https://youtu.be/PwwzO2BZIts)                                                                   |
 | 2       |              | [Google Jamboard](https://jamboard.google.com/d/1qgKwqgi1CqPEhEaSuU7k0OGaCI233tiTWpcZrxUEIp4/edit?usp=sharing) |
-|         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/gzyDvPhlqik)                                                                   |
 | 3       |              | [Google Jamboard]() |
-|         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/Am3SJwfnqYM)                                                                   |
 | 4       |              | [Google Jamboard]() |
-|         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/aW0z-1cltPA)                                                                   |
 | 5       |              | [Google Jamboard]() |
-|         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/nK2NVUan5AA)                                                                   |
 | 6       |              | [Google Jamboard](https://jamboard.google.com/d/1Zwi1gZi7rqJ2n0kb5rUgyHiJcSrdlp2byT3mEQl8WXE/edit?usp=sharing) |
-|         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/feXUGucoFq0)                                                                   |
 | 7       |              | [Google Jamboard](https://jamboard.google.com/d/1Zwi1gZi7rqJ2n0kb5rUgyHiJcSrdlp2byT3mEQl8WXE/edit?usp=sharing) |
-|         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/S88SjhpWR3k)                                                                   |
 | 8       |              | [Google Jamboard](https://jamboard.google.com/d/1yCDkxd8D9evjDqcmGqHKAuFCaarKqhS4-cHVq-UN_Hs/edit?usp=sharing) |
-|         |              | [Lecture 1a](https://www.icloud.com/keynote/0k_qh76sUSELnFFsAq6PUXsrg#Lecture_1a)                              |
-|         |              |[Google Colab](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203/code/CSE203Lecture1.ipynb)|
 |         |              | [Youtube Link](https://youtu.be/iEa1R6SENvw)                                                                   |
 
 
