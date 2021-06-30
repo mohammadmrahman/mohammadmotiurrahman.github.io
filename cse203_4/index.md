@@ -88,7 +88,7 @@ environment will force me to not evaluate your exam copies.
 | 6       |              | [Youtube Link](https://youtu.be/esbnUv187cw)                                                                   |
 |         |              | [Google Jamboard]() |
 | 7       |              | [Youtube Link](https://youtu.be/dTsTxgVC_6k)                                                                   |
-|         |              | [Google Jamboard]() |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1UiebkbDe-PsVVc9QMKi1HmLZb09ojdyDJG7fuKXPJq0/edit?usp=sharing) |
 
 
 
