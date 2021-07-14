@@ -103,6 +103,10 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1A0H1FOBhl3GTQ36guCCGcO-CVX8N9-egh6a4xvUPypI/edit?usp=sharing) |
 | 14      |              | [Youtube Link](https://youtu.be/B5IAuPeMLuQ)                                                                   |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1RUbTJ9tPimo6eF9ByCGqD6kon2_8R3UFoPQOcZMvWqQ/edit?usp=sharing) |
+| 15      |              | [Youtube Link](https://youtu.be/NgKBvUZNkSc)                                                                   |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1RUbTJ9tPimo6eF9ByCGqD6kon2_8R3UFoPQOcZMvWqQ/edit?usp=sharing) |
+
+
 
 
 
